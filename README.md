@@ -8,4 +8,4 @@ No APIs have been documented yet. Check back for updates.
 
 ## Properties
 
-- [Website](https://www.oceaneering-international.com)
+- [Website](https://www.oceaneering.com)
