@@ -10,6 +10,8 @@ common:
     url: https://www.linkedin.com/company/oceaneering
   - type: Website
     url: https://www.oceaneering.com
+  - type: LLMsTxt
+    url: https://oceaneering.com/llms.txt
 description: >-
   Oceaneering International is a global provider of engineered services and products
   primarily to the offshore oil and gas industry, with a focus on deepwater applications.
