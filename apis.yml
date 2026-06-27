@@ -12,7 +12,7 @@ common:
     url: https://www.linkedin.com/company/oceaneering
   - type: Website
     url: https://www.oceaneering.com
-  - type: LLMsTxt
+  - type: LlmsText
     url: https://oceaneering.com/llms.txt
 description: >-
   Oceaneering International is a global provider of engineered services and products
