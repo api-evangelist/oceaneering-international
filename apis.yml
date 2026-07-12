@@ -6,6 +6,8 @@ url:
 modified: '2026-04-28'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/oceaneering-international-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/Oceaneering
   - type: LinkedIn
@@ -14,6 +16,8 @@ common:
     url: https://www.oceaneering.com
   - type: LlmsText
     url: https://oceaneering.com/llms.txt
+  - type: Blog
+    url: https://www.oceaneering.com/news/
 description: >-
   Oceaneering International is a global provider of engineered services and products
   primarily to the offshore oil and gas industry, with a focus on deepwater applications.
